@@ -1,7 +1,7 @@
 Inicializção da aplicação:
 
 Backend:
-cd backend
+cd backend \n
 npm install
 node app.js (inicia o servidor)
 
